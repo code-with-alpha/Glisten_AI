@@ -1,5 +1,4 @@
-# Glisten-ai Tutorial Course
+# Glisten-ai
 
-This is the final code for the YouTube tutorial course where we build a dark Next.js, Prismic, Tailwind, TypeScript, and GSAP website.
+This Project is Build with Next.js, Prismic, Tailwind, TypeScript, and GSAP.
 
-For all the information about the course, check out the [Notion Doc](https://prismic.notion.site/Prismic-Next-js-Course-Resources-9eda931a8b3743b9b3aaf0b7a561403b).
